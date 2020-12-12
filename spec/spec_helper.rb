@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "apply_method_chaining_to_connect_to"
+require "apply_method_chaining_to_connected_to"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
